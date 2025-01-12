@@ -1,5 +1,8 @@
 # Exercise from the Microsoft learning module: Render API responses in ASP.NET Core Razor Pages
 
+This module is part of the Microsoft Learning path: "Build AI apps with Microsoft Azure services"
+that I have compeleted.
+
 # Module content:
 
 Razor Pages is a page-based programming model that makes it easy to build dynamic web pages. 
@@ -10,5 +13,4 @@ allows you to create HTML markup with C# code.
 - Render API responses in Razor Pages
 - Create pages that perform HTTP operations
 
-This module is part of the Microsoft Learning path: "Build AI apps with Microsoft Azure services"
-that I have compeleted.
+<img src="assets/api_aspnet_razor_github.jpg" alt="Example Image" width="300"/>
