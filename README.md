@@ -13,4 +13,12 @@ allows you to create HTML markup with C# code.
 - Render API responses in Razor Pages
 - Create pages that perform HTTP operations
 
+This exercise was two components:
+
+A web app that sends HTTP requests to an API (Fruit web app). The app runs on http://localhost:5010
+An API that responds to HTTP requests (Fruit API). The API runs on http://localhost:5050
+
+The Fruit web app displays the API sample data on the home page (Index.cshtml). The add, edit, and delete operations are each 
+handled on a separate .cshtml page in the project (Add.cshtml, Edit.cshtml and Delete.cshtml).  
+
 <img src="assets/api_aspnet_razor_github.jpg" alt="Api_AspNetCore_RazorPages"/>
