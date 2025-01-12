@@ -1,4 +1,4 @@
-# # Exercise from the Microsoft learning module:
+Exercise from the Microsoft learning module:
 
 # Render API responses in ASP.NET Core Razor Pages
 
