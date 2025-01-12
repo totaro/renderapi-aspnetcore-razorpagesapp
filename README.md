@@ -15,7 +15,7 @@ allows you to create HTML markup with C# code.
 
 This exercise was two components:
 
-A web app that sends HTTP requests to an API (Fruit web app). The app runs on http://localhost:5010
+A web app that sends HTTP requests to an API (Fruit web app). The app runs on http://localhost:5010<br>
 An API that responds to HTTP requests (Fruit API). The API runs on http://localhost:5050
 
 The Fruit web app displays the API sample data on the home page (Index.cshtml). The add, edit, and delete operations are each 
