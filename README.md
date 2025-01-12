@@ -13,4 +13,4 @@ allows you to create HTML markup with C# code.
 - Render API responses in Razor Pages
 - Create pages that perform HTTP operations
 
-<img src="assets/api_aspnet_razor_github.jpg" alt="Example Image" width="300"/>
+<img src="assets/api_aspnet_razor_github.jpg" alt="Api_AspNetCore_RazorPages"/>
