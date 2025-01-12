@@ -1,6 +1,6 @@
 # Exercise from the Microsoft learning module: Render API responses in ASP.NET Core Razor Pages
 
-This module is part of the Microsoft Learning path: "Build AI apps with Microsoft Azure services"
+This module was part of the Microsoft Learning path: "Build AI apps with Microsoft Azure services"
 that I have compeleted.
 
 # Module content:
